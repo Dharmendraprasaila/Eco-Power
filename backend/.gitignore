@@ -1,0 +1,31 @@
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+solar_energy.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# API Keys
+*.key
+config/
